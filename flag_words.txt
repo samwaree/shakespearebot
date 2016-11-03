@@ -2,3 +2,32 @@ Exit
 Enter
 Re-enter
 Aside
+Citizens
+First Citizen
+Second Citizen
+Third Citizen
+Fourth Citizen
+First Servant
+Second Servant
+Servant
+Several Citizens
+ACT
+SCENE
+Soothsayer
+Nurse
+Second Capulet
+Chorus
+First Musician
+Musician
+Second Musician
+Third Musician
+Apothecary
+First Watchman
+Second Watchman
+Third Watchman
+Player King
+First Clown
+Second Clown
+Fairy
+First Player
+First Carrier
